@@ -1,7 +1,7 @@
 - 👋 Hi, I’m snehal Ramteke.
 - 👀 I’m interested in Data Scientist & Data Analyst.
 - 🌱 I’m currently learning Full Stack Data Science.
-- 📫 How to reach me ...
+- 📫 How to reach me _ _ 
 - https://www.linkedin.com/in/snehal-ramteke-b3b122173/
 
 <!---
